@@ -1,0 +1,177 @@
+[
+
+{
+
+
+"id": 1,
+
+
+"title": "arroz",
+
+
+"description": "made in china",
+
+
+"price": 200,
+
+
+"thumbnail": "../img/arroz.jpeg",
+
+
+"code": 10,
+
+
+"stok": 40
+
+},
+
+{
+
+
+"id": 2,
+
+
+"title": "bubbaloo",
+
+
+"description": "chicle",
+
+
+"price": 40,
+
+
+"thumbnail": "../img/bubbaloo.jpeg",
+
+
+"code": 15,
+
+
+"stok": 200
+
+},
+
+{
+
+
+"id": 3,
+
+
+"title": "cocacola",
+
+
+"description": "bebida",
+
+
+"price": 2500,
+
+
+"thumbnail": "../img/cocacola.jpeg",
+
+
+"code": 20,
+
+
+"stok": 20
+
+},
+
+{
+
+
+"id": 4,
+
+
+"title": "fideos",
+
+
+"description": "tallarines",
+
+
+"price": 700,
+
+
+"thumbnail": "../img/fideos.jpeg",
+
+
+"code": 25,
+
+
+"stok": 60
+
+},
+
+{
+
+
+"id": 5,
+
+
+"title": "flynn paff",
+
+
+"description": "caramelos",
+
+
+"price": 150,
+
+
+"thumbnail": "fylnn-paff.jpeg",
+
+
+"code": 30,
+
+
+"stok": 200
+
+},
+
+{
+
+
+"id": 6,
+
+
+"title": "gomitas",
+
+
+"description": "dulces",
+
+
+"price": 20,
+
+
+"thumbnail": "../img/gomitas.jpeg",
+
+
+"code": 35,
+
+
+"stok": 200
+
+},
+
+{
+
+
+"id": 7,
+
+
+"title": "vino",
+
+
+"description": "contenido alcoholico",
+
+
+"price": 2500,
+
+
+"thumbnail": "../img/vino.jpeg",
+
+
+"code": 40,
+
+
+"stok": 40
+
+}
+]
